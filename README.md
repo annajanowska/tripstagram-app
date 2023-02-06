@@ -2,7 +2,7 @@
 
 A web application that serves as Instagram for travelling fans. You can create account, add photos, likes and comments. Moreover, you can search specific locations and befriend with people who have visited them.
 
-**Functionality of the application:
+Functionality of the application:
 - Register
 ![funct_photo1](https://user-images.githubusercontent.com/56201394/123761896-8a458900-d8c2-11eb-9e35-80fa4fc1e993.png)
 ![funct_photo2](https://user-images.githubusercontent.com/56201394/123761902-8c0f4c80-d8c2-11eb-9cd4-1d30d8ff2264.png)
