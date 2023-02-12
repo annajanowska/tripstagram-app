@@ -1,6 +1,6 @@
 # Tripstagrm <img src="https://user-images.githubusercontent.com/56201394/217075383-7039f8e1-dbfd-4bda-bc9f-97ac05387633.png" width="30" height="30"> <img src="https://user-images.githubusercontent.com/56201394/217075539-15c19fc5-c00a-40b2-90b5-b1ece7a66f7e.png" width="30" height="30"> <img src="https://user-images.githubusercontent.com/56201394/217075615-8c8e4131-9e55-4330-a0fc-6aa6e95975b1.png" width="30" height="30">
 
-A web application that serves as Instagram for travelling fans. You can create account, add photos, likes and comments. Moreover, you can search specific locations and befriend with people who have visited them.
+A web app that allows sharing photos for travelling fans. You can create account, add photos, likes and comments. Moreover, you can search specific locations and befriend with people who have visited them.
 
 Functionality of the application:
 - Register
